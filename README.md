@@ -7,4 +7,8 @@
 
 Hey there 👋,
 
-I create awesome websites and apps for your everyday needs, I'm a fully self taurght developer from New Delhi, India.
+I create awesome websites and apps for your everyday needs, I'm a fully self taurght developer from New Delhi, India. I started out as a mechanical and automation engineer, follow my journey over on twitter.
+
+- JS data structures and algorithms
+- React JS with Redux
+- Node JS
