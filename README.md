@@ -1,4 +1,4 @@
-![name showcase image](./assets/vibes.png)
+![name showcase image](https://raw.githubusercontent.com/shubhamthedev/shubhamthedev/master/assets/vibes.png)
 
 <p align="center">
 <a href="https://twitter.com/shubhamthedev"><img height="30" src="https://raw.githubusercontent.com/shubhamthedev/shubhamthedev/master/assets/twitter.png"></a>&nbsp;&nbsp;
