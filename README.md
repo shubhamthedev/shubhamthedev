@@ -1,5 +1,10 @@
-<p>
-<img width="800" height="574" align='center' src="https://github.com/shubhamthedev/shubhamthedev/blob/master/assets/showcase.gif"/>
+![name showcase image](./assets/vibes.png)
+
+<p align="center">
+<a href="https://twitter.com/shubhamthedev"><img height="30" src=""></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shubhamthedev/"><img height="30" src=""></a>
 </p>
 
-I started my journey as a mechanical and automation engineer and then diving into UI/UX and now being a front-end engineer, learn more about my journey over on [Twitter](https://twitter.com/shubhamthedev).
+Hey there 👋,
+
+I create awesome websites and apps for your everyday needs, I'm a fully self taurght developer from New Delhi, India.
