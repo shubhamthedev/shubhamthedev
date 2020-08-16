@@ -11,4 +11,5 @@ I create awesome websites and apps for your everyday needs, I'm a fully self tau
 
 - JS data structures and algorithms
 - React JS with Redux
-- Node JS
+- Data Visualization with D3
+- Web Design
