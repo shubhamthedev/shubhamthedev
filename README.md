@@ -19,8 +19,7 @@ Feel free to connect with me on LinkedIn to chat about computational engineering
 - **Data-Driven Engineering Solutions**
 
 ### 💻 Tech Stack & Tools:
-*(Update these with the specific tools you use!)*
 - **Languages:** Python, C++, MATLAB
 - **ML/AI:** PyTorch, TensorFlow, Scikit-Learn
-- **Simulation/FEM:** FEniCS, Ansys, Abaqus, or OpenFOAM
+- **Simulation/FEM:** FEniCS, Ansys, Abaqus
 - **Data Manipulation:** NumPy, SciPy, Pandas
